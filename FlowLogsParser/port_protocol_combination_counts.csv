@@ -1,0 +1,7 @@
+Port,Protocol,Count
+443,TCP,1
+23,TCP,1
+25,TCP,1
+110,TCP,1
+993,TCP,1
+143,TCP,1
